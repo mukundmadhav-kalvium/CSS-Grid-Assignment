@@ -85,19 +85,16 @@ footer{
     background-color: aliceblue;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .pic{
-        width: 8rem;
+        width: 7rem;
         height: 6rem;
         margin: 5px 5px;
     }    
 
     .image-container{
+        /* width: 100%; */
         padding: 0.3rem;
-    }
-
-    main{
-        width: 100%;
     }
 
     #google-icon{
@@ -107,7 +104,7 @@ footer{
 
     #get-photos{
         font-size: 0.7rem;
-        width: 8rem;
+        width: 7rem;
         height: 1.8rem;
     }
 
