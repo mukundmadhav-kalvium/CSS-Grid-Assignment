@@ -85,7 +85,7 @@ footer{
     background-color: aliceblue;
 }
 
-@media (min-width: 400px) {
+@media screen (min-width: 400px) {
     .pic{
         width: 8rem;
         height: 6rem;
